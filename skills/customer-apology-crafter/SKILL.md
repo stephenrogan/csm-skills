@@ -3,6 +3,7 @@ name: customer-apology-crafter
 description: Writes genuine, non-corporate apologies after service failures, outages, missed commitments, or other situations where the customer was let down. Provides multiple framing options calibrated to the severity of the failure and the state of the relationship. Use when asked to write an apology email, draft a service failure response, compose a mea culpa, acknowledge a mistake to a customer, or when any situation requires a formal acknowledgement that something went wrong. Also triggers for questions about customer apologies, service recovery communications, trust repair, or handling a situation where the company made a mistake.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

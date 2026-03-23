@@ -3,6 +3,7 @@ name: territory-transition-planner
 description: Builds a structured 30-60-90 day plan for a CSM taking over a new book of accounts or joining a new team. Prioritises accounts by risk and value, identifies immediate relationship actions, and structures the ramp to full productivity. Use when asked to plan a book transition, create a new CSM onboarding plan, structure a territory takeover, build a 30-60-90 plan for a new role, or when a CSM is inheriting accounts and needs a systematic approach to getting up to speed. Also triggers for questions about account transitions, new book ramp-up, CSM onboarding to a portfolio, territory planning, or how to take over accounts from another CSM.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

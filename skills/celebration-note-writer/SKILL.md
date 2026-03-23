@@ -3,6 +3,7 @@ name: celebration-note-writer
 description: Writes genuine notes celebrating customer milestones, achievements, team successes, or personal events. Avoids corporate platitudes in favour of specific, personal recognition that strengthens the relationship. Use when asked to write a congratulations note, celebrate a customer milestone, acknowledge a personal or professional achievement, mark an anniversary, or when any positive event at a customer account deserves recognition. Also triggers for questions about customer recognition, milestone celebration, relationship-building touches, congratulatory communications, or how to acknowledge customer achievements genuinely.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

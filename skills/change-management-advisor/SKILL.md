@@ -3,6 +3,7 @@ name: change-management-advisor
 description: Provides a structured framework for helping customers drive internal adoption of your product within their organisation. Addresses resistance, stakeholder alignment, communication strategy, and phased rollout planning from the CSM's perspective as an external advisor. Use when asked to help a customer with change management, advise on internal adoption strategy, address resistance to product adoption, plan a team rollout, or when adoption is stalling not because of the product but because of the customer's organisational readiness. Also triggers for questions about customer change resistance, internal adoption blockers, rollout planning, or how to help customers get their teams to actually use the product.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

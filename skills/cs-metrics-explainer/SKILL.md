@@ -3,6 +3,7 @@ name: cs-metrics-explainer
 description: Takes a CS metric and produces a comprehensive explanation including definition, calculation method, industry benchmarks, what drives it, how to influence it, and common misinterpretations. Use when asked to explain a CS metric, understand NRR or GRR, learn about health scoring, define a retention metric, understand what a metric means and how to move it, or when a CSM needs to build commercial and analytical fluency on CS metrics. Also triggers for questions about CS KPIs, metric definitions, benchmark ranges, how metrics are calculated, what good looks like for a specific metric, or how to explain a CS metric to leadership.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

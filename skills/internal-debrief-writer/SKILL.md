@@ -3,6 +3,7 @@ name: internal-debrief-writer
 description: Generates an internal-only post-meeting summary that includes context a CSM would never share with the customer -- political observations, relationship assessments, competitive intelligence, strategic notes, and honest sentiment reads. Distinct from follow-up emails (customer-facing) and meeting outcome logs (CRM-facing). Use when asked to write an internal debrief, document internal observations from a meeting, create a confidential post-meeting analysis, capture relationship intelligence, or when a CSM needs to record what they actually think happened versus what they would share externally. Also triggers for questions about internal meeting analysis, confidential account observations, political dynamics documentation, or candid post-meeting notes for the team.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

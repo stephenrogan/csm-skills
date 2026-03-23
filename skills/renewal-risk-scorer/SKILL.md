@@ -3,6 +3,7 @@ name: renewal-risk-scorer
 description: Assesses renewal risk for a specific account by scoring across multiple dimensions including health, engagement, value evidence, stakeholder coverage, competitive signals, and commercial factors. Produces a risk classification with the primary risk driver and recommended intervention. Use when asked to assess renewal risk, evaluate whether a renewal is safe, score an account's likelihood of renewing, prepare for a renewal pipeline review, or when a CSM needs an objective assessment of whether a renewal is at risk. Also triggers for questions about renewal likelihood, churn risk assessment, retention risk scoring, or predicting whether a customer will renew.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

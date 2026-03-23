@@ -3,6 +3,7 @@ name: handoff-intro-email
 description: Writes the transition email when a customer moves to a new CSM -- the outgoing CSM's introduction of the incoming CSM. Balances reassurance with enthusiasm, provides enough context for the customer without overwhelming them, and positions the incoming CSM for a strong start. Use when asked to write a handoff email, draft a CSM transition introduction, compose a customer reassignment communication, or when any account is changing CSM ownership and the customer needs to be informed. Also triggers for questions about CSM transitions, account handoff communications, customer reassignment emails, or how to introduce a new CSM to a customer.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

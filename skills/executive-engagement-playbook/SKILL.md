@@ -3,6 +3,7 @@ name: executive-engagement-playbook
 description: Framework for when and how to involve executives -- yours and the customer's -- in the account relationship. Covers timing, framing, preparation, and follow-through for executive engagement at renewal, expansion, escalation, and strategic alignment points. Use when asked about executive engagement strategy, when to go high, how to involve leadership, how to prepare for an executive meeting, or when a situation warrants moving beyond the CSM-level relationship. Also triggers for questions about executive sponsorship, VP-level engagement, C-suite involvement, strategic account elevation, or when leadership involvement could unlock an outcome the CSM cannot achieve alone.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

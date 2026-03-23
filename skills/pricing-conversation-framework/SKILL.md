@@ -3,6 +3,7 @@ name: pricing-conversation-framework
 description: Structures pricing discussions with customers including renewal pricing, discount requests, price increases, and competitive pricing pressure. Provides frameworks for leading with value, handling objections, and knowing when to concede versus when to hold. Use when asked to prepare for a pricing conversation, handle a discount request, communicate a price increase, respond to competitive pricing, or when any commercial discussion involves pricing. Also triggers for questions about pricing strategy, discount negotiation, price increase communication, commercial conversations, or handling the "it is too expensive" objection.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

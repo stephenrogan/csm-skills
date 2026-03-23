@@ -3,6 +3,7 @@ name: account-swot-analyser
 description: Produces a structured SWOT analysis for a customer account, identifying strengths to leverage, weaknesses to address, opportunities to pursue, and threats to mitigate. Connects each element to specific actions. Use when asked to analyse an account strategically, build a SWOT for a customer, assess an account's position, prepare for a strategic planning session, or when a CSM needs to move beyond operational management to strategic thinking about a key account. Also triggers for questions about strategic account analysis, account positioning, opportunity and risk mapping, or comprehensive account assessment.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: book-prioritisation
 description: Prioritises a CSM's full book of accounts into action tiers using a weighted scoring model that considers ARR, health, renewal proximity, engagement status, and strategic importance. Produces a ranked list with recommended time allocation. Use when asked to prioritise accounts, rank a portfolio, determine where to focus, triage a book, decide which accounts need attention first, or when a CSM feels overwhelmed and does not know where to start. Also triggers for questions about account prioritisation, portfolio triage, book ranking, time allocation across accounts, or how to decide which accounts matter most this week.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

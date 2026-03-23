@@ -3,6 +3,7 @@ name: internal-status-update-writer
 description: Compiles account portfolio status into formatted internal updates for leadership, cross-functional teams, or manager reviews. Adapts detail and framing by audience. Use when asked to write a status update, compile a portfolio summary for leadership, create a weekly report for your manager, draft a cross-functional update on key accounts, or when any internal audience needs a structured view of account status. Also triggers for questions about internal reporting, portfolio status updates, manager updates, leadership summaries, or how to communicate account status to internal stakeholders.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

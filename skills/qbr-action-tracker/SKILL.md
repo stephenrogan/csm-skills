@@ -3,6 +3,7 @@ name: qbr-action-tracker
 description: Tracks and manages action items from QBRs and business reviews without requiring CRM integration. Maintains a structured register of commitments from both sides with owners, deadlines, and status, and generates follow-up reminders. Use when asked to track QBR actions, manage commitments from a business review, follow up on QBR deliverables, build an action item register, or when commitments made in QBRs are not being tracked systematically. Also triggers for questions about QBR follow-through, commitment tracking, action item management, meeting deliverables, or ensuring promises made in business reviews actually get delivered.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

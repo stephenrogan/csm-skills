@@ -3,6 +3,7 @@ name: manual-health-assessment
 description: Guided diagnostic that scores account health through structured questions across five dimensions -- usage, engagement, support, sentiment, and commercial health. Produces a health classification with component breakdown and recommended actions. No automated data required -- the CSM's knowledge is the input. Use when asked to assess account health, evaluate a customer's risk level, score an account without a health scoring system, or when a CSM wants a structured way to evaluate where an account stands. Also triggers for questions about account risk, customer health, or portfolio assessment. The entry point to structured health thinking.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

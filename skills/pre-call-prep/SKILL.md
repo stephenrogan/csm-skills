@@ -3,6 +3,7 @@ name: pre-call-prep
 description: Builds a structured pre-call brief from manually provided account context. Produces talking points, questions to ask, risks to address, and a clear call objective. Use when asked to prepare for a customer call, build talking points, create a pre-meeting brief, structure a call agenda, or when a CSM has a call in 30 minutes and needs to walk in prepared. Also triggers for questions about call preparation, meeting readiness, talking point development, or structuring a productive customer conversation.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

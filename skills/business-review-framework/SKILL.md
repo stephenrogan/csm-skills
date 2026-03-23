@@ -3,6 +3,7 @@ name: business-review-framework
 description: Provides a lighter alternative to a full QBR for mid-market and SMB accounts that need value conversations but do not warrant a formal quarterly business review. Structures a 20-30 minute business check-in with usage highlights, value evidence, and forward-looking discussion. Use when asked to run a business review without a full QBR, structure a lighter customer review, build a mini-QBR, create a business check-in framework, or when an account needs a value conversation but a full QBR would be disproportionate to their size or complexity. Also triggers for questions about business review alternatives, scaled QBR formats, lightweight business reviews, or how to deliver value conversations to mid-market and SMB accounts efficiently.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

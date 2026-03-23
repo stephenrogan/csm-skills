@@ -3,6 +3,7 @@ name: call-summary-generator
 description: Generates a structured post-call summary from raw notes, key observations, or a brain dump of what happened. Organises the chaos into discussion points, decisions, action items, sentiment, and flags. Use when asked to summarise a call, structure meeting notes, organise what happened in a conversation, create a call summary from notes, or when a CSM has raw thoughts from a customer call and needs them structured. Also triggers for questions about call documentation, meeting summarisation, note organisation, or turning a call brain dump into a usable record.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

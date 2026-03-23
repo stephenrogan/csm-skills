@@ -3,6 +3,7 @@ name: usage-pattern-interpreter
 description: Takes raw usage data -- even a spreadsheet export or pasted metrics -- and identifies patterns, risks, and opportunities. Translates product analytics into account intelligence a CSM can act on. Use when asked to interpret usage data, analyse product metrics, make sense of a usage report, identify trends in customer behaviour, flag usage-based risks, or when a CSM has data but does not know what it means for the account. Also triggers for questions about usage analysis, product analytics interpretation, behavioural pattern detection, usage-based risk identification, or turning raw metrics into actionable insight.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

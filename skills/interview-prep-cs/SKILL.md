@@ -3,6 +3,7 @@ name: interview-prep-cs
 description: Structures preparation for CS job interviews at any level -- CSM, Senior CSM, Manager, Director, VP. Identifies likely questions by level, helps build structured answers using the STAR framework with CS-specific examples, and prepares the candidate for case study discussions and strategic questions. Use when asked to prepare for a CS interview, practise interview answers, build a story bank for interviews, prepare for a CS leadership interview, or when someone is interviewing for a role in customer success. Also triggers for questions about CS interview preparation, common CS interview questions, how to structure interview answers, career progression interviews, or preparing for executive-level CS interviews.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

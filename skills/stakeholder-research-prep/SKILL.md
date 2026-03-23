@@ -3,6 +3,7 @@ name: stakeholder-research-prep
 description: Prepares structured background research on a customer contact before a first meeting or engagement. Builds a profile including likely priorities, role-specific concerns, engagement approach, and conversation starters based on their title, function, and seniority level. Use when asked to prepare for a first meeting with a new contact, research a stakeholder, build a contact profile, prepare for an executive conversation, or when meeting someone at a customer account for the first time. Also triggers for questions about stakeholder preparation, first meeting research, contact profiling, or executive meeting prep with someone you have not met before.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

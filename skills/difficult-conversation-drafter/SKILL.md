@@ -3,6 +3,7 @@ name: difficult-conversation-drafter
 description: Prepares talking points and framing for difficult customer conversations including delivering bad news, addressing underperformance, raising pricing concerns, discussing missed commitments, or having an honest conversation about a failing relationship. Use when asked to prepare for a difficult conversation, frame bad news, plan a confrontational discussion, structure a hard conversation, or when a CSM knows a conversation will be uncomfortable and needs to prepare how to navigate it. Also triggers for questions about hard conversations, delivering bad news to customers, uncomfortable customer topics, or how to raise a difficult subject without damaging the relationship.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: peer-coaching-guide
 description: Structures a coaching conversation between CSMs for peer review of an account situation, strategy brainstorm, or skill development. Provides a framework that makes peer coaching sessions productive and focused rather than unstructured venting. Use when asked to structure a peer coaching session, facilitate an account review between colleagues, build a coaching framework, organise a peer brainstorm, or when two CSMs want to help each other think through a problem. Also triggers for questions about peer coaching, account review sessions, CSM mentoring structures, brainstorm facilitation, or how to make peer conversations more productive.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

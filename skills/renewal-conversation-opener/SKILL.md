@@ -3,6 +3,7 @@ name: renewal-conversation-opener
 description: Frames the initial renewal conversation by leading with value delivered, transitioning to forward-looking partnership, and anticipating likely objections based on account context. Produces multiple opening approaches calibrated to the account's health, relationship, and commercial situation. Use when asked to prepare for a renewal discussion, draft a renewal email, frame a renewal conversation, open a retention dialogue, or when a CSM needs to move from relationship management to commercial conversation. Also triggers for questions about renewal preparation, retention conversation strategy, renewal email drafting, or how to start the renewal discussion with a customer.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

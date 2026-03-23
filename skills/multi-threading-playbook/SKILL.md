@@ -3,6 +3,7 @@ name: multi-threading-playbook
 description: Provides a structured approach to expanding relationships beyond a single contact at a customer account. Identifies target contacts, recommends engagement approaches, and builds a multi-threading strategy to reduce single-thread risk. Use when asked to multi-thread an account, expand relationships at a customer, reduce single-thread risk, build broader stakeholder coverage, develop new contacts, or when a CSM realises they are dependent on one person at a key account. Also triggers for questions about relationship breadth, single-thread risk, stakeholder expansion, going wide at an account, or how to build relationships with people beyond the primary contact.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

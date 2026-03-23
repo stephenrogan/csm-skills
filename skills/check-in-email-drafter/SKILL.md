@@ -3,6 +3,7 @@ name: check-in-email-drafter
 description: Writes personalised customer check-in emails that do not sound like templates. Calibrates tone by segment, incorporates account-specific context, and always includes a specific question or observation rather than generic outreach. Use when asked to write a check-in email, draft a touchpoint email, compose a proactive outreach, or when a CSM needs to reach out to a customer with something better than "just checking in." Also triggers when someone says "I need to email this customer" or "what should I say to them" or needs a personalised outreach for an account on their cadence.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

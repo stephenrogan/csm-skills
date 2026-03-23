@@ -3,6 +3,7 @@ name: competitive-threat-assessor
 description: Evaluates the severity of a competitive threat on a specific account by assessing the evaluation stage, trigger, relationship strength, and switching cost. Produces a threat classification with a response framework. Use when asked to assess a competitive signal, evaluate a competitive threat, determine how serious a competitor situation is, prepare a competitive response, or when a customer has mentioned evaluating alternatives. Also triggers for questions about competitive analysis on a specific account, handling competitor mentions, responding to customer evaluations, or assessing the risk of losing an account to a competitor.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

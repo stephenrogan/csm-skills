@@ -3,6 +3,7 @@ name: week-planner
 description: Structures the CSM's week based on their portfolio status, upcoming events, overdue items, and strategic priorities. Produces a time-blocked plan that balances reactive demands with proactive account management. Use when asked to plan a week, structure daily priorities, build a weekly schedule, allocate time across accounts, manage a busy week, or when a CSM feels overwhelmed and needs to determine where to focus. Also triggers for questions about time management, weekly planning, account prioritisation for the week, daily priority setting, or how to balance competing demands across a portfolio.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

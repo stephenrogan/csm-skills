@@ -3,6 +3,7 @@ name: career-dev-planner
 description: Structures a CS career progression plan from current role to target role by mapping required skills, identifying gaps, defining development milestones, and building a timeline with specific actions. Covers the full CS career ladder from CSM through VP. Use when asked to plan a career path, build a development roadmap, map skills for promotion, structure a career progression plan, or when a CSM wants to be intentional about moving to the next level. Also triggers for questions about CS career progression, promotion readiness, skills for the next level, career planning in customer success, or what it takes to move from CSM to manager to director to VP.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

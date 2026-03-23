@@ -3,6 +3,7 @@ name: account-strategy-builder
 description: Develops a structured 90-day strategic plan for a key account by defining priorities, setting measurable objectives, mapping stakeholder strategy, and identifying risks and opportunities. Use when asked to build an account strategy, create an account plan, develop a strategic approach for a key account, set quarterly objectives for an account, or when moving from reactive account management to proactive strategic management. Also triggers for questions about account planning, strategic account management, quarterly account objectives, or how to develop a structured plan for a high-value customer.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

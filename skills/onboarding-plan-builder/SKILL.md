@@ -3,6 +3,7 @@ name: onboarding-plan-builder
 description: Creates a structured customer onboarding plan with phased milestones, success criteria, timeline, and responsibility assignments. Adapts by segment and complexity. Use when asked to build an onboarding plan, structure a customer kickoff, create an implementation timeline, design a go-live plan, or when a new customer needs a clear roadmap from contract signing to value realisation. Also triggers for questions about customer onboarding structure, implementation planning, kickoff preparation, time-to-value planning, or how to set up a new customer for success from day one.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

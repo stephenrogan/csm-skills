@@ -3,6 +3,7 @@ name: escalation-brief-writer
 description: Writes structured escalation documents that get the right people to act on a customer issue. Includes the headline, timeline, customer impact, resolution attempts, specific ask, and commercial context. Use when asked to write an escalation brief, document an escalation, prepare an internal escalation report, structure a request for engineering or product help, or when a customer issue needs to be routed to a team that has no context on the account. Also triggers for questions about escalation documentation, internal issue briefs, cross-functional requests, or how to write an escalation that actually gets acted on.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

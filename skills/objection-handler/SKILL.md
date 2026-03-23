@@ -3,6 +3,7 @@ name: objection-handler
 description: Provides structured response frameworks for common CS objections including pricing challenges, feature gaps, competitive comparisons, adoption resistance, and value questioning. Produces multiple response options calibrated to the relationship context. Use when asked to handle an objection, respond to a customer pushback, prepare for a difficult commercial conversation, address a customer concern about pricing or features, or when a CSM faces pushback and needs a structured approach to responding. Also triggers for questions about objection handling, customer pushback, difficult questions from customers, or preparing responses to common CS challenges.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

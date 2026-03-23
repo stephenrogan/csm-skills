@@ -3,6 +3,7 @@ name: value-narrative-builder
 description: Constructs a compelling value narrative for a customer account by connecting product usage to business outcomes in the customer's language. Produces different versions for different audiences -- the champion, the CFO, the board. Use when asked to build a value story, articulate ROI, create a business case for the customer, prepare value evidence for a renewal or QBR, or when a CSM needs to translate usage metrics into business impact the customer will recognise. Also triggers for questions about value articulation, ROI storytelling, customer business case, value evidence, or how to prove the product is worth the investment.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

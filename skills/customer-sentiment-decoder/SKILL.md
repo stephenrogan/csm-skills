@@ -3,6 +3,7 @@ name: customer-sentiment-decoder
 description: Interprets mixed or contradictory signals from a customer by analysing the gap between what they say, what they do, and what the data shows. Produces a structured interpretation with investigation recommendations. Use when asked to decode customer sentiment, interpret mixed signals, make sense of contradictory behaviour, assess what a customer really thinks, or when a customer's words do not match their actions. Also triggers for questions about reading between the lines, interpreting customer behaviour, understanding contradictory signals, assessing true customer satisfaction, or when something feels off about an account but you cannot pinpoint why.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

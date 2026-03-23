@@ -3,6 +3,7 @@ name: re-engagement-email-writer
 description: Writes outreach to customers who have gone dark -- not responded to recent communications, missed meetings, or disengaged from the product. Differs from a check-in email by acknowledging the silence and offering a specific reason to re-engage rather than asking if everything is fine. Use when asked to write a re-engagement email, reach out to a silent customer, draft an outreach to a customer who has gone dark, break through to an unresponsive contact, or when a no-reply streak indicates the customer has disengaged. Also triggers for questions about customer silence, unresponsive accounts, re-engagement strategy, or breaking through communication barriers.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

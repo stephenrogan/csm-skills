@@ -3,6 +3,7 @@ name: save-play-designer
 description: Creates a structured intervention plan for an at-risk account by identifying the root cause of the risk, designing a targeted response, assigning actions with timelines, and defining what success looks like. Use when asked to build a save play, design a retention intervention, create a rescue plan for an at-risk account, plan a churn prevention strategy, or when an account has been classified as at-risk and needs a dedicated intervention plan. Also triggers for questions about save plays, retention interventions, at-risk account management, churn prevention planning, or how to save a customer who is thinking about leaving.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

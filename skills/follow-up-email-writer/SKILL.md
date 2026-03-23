@@ -3,6 +3,7 @@ name: follow-up-email-writer
 description: Writes post-meeting follow-up emails that reinforce commitments, document decisions, and maintain momentum. Produces a customer-facing email that both parties can reference as the record of what was agreed. Use when asked to write a follow-up email, draft a post-meeting recap, summarise a call in an email, document next steps after a meeting, or when a CSM needs to send a professional recap after any customer interaction. Also triggers for questions about post-meeting communication, follow-up email drafting, commitment documentation, or meeting recap emails.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

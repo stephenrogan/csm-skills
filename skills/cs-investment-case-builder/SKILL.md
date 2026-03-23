@@ -3,6 +3,7 @@ name: cs-investment-case-builder
 description: Builds the business case for CS investment -- headcount, tooling, programmes, or operational improvements. Structures the argument in CFO-ready language with ROI projection, risk quantification, and evidence from portfolio data. Use when asked to build a business case for CS resources, justify headcount, make the case for a CS tool, propose a programme investment, or when a CS leader needs to secure budget or approval from finance or executive leadership. Also triggers for questions about CS headcount justification, tooling business cases, CS ROI for leadership, budget requests, or how to make the financial case for investing in customer success.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: executive-briefing-writer
 description: Condenses account context into structured executive summaries of varying depth -- from a 30-second verbal brief to a one-page written summary. Formats for the specific executive audience (your leadership, the customer's leadership, or both). Use when asked to prepare an executive briefing, write an account summary for leadership, create a board-level overview, condense account information for a VP or CRO, or when a CSM needs to brief someone senior quickly. Also triggers for questions about executive summaries, leadership briefings, account snapshots for management, or condensing complex account situations into executive-ready formats.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: churn-post-mortem
 description: Structures a post-churn analysis to identify root causes, missed signals, intervention gaps, and systemic lessons. Produces a documented analysis that prevents the same failure pattern from repeating across the portfolio. Use when asked to analyse a churn, conduct a loss review, identify why an account left, build a post-mortem, or when a customer has churned and the CSM needs to understand what happened and what the team should learn from it. Also triggers for questions about churn analysis, loss review, retention failure investigation, or learning from customer departures.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: expansion-opportunity-scorer
 description: Scores expansion readiness for a customer account by assessing adoption depth, value realisation, stakeholder alignment, commercial signals, and timing. Produces a readiness classification with the recommended expansion approach and the specific signal that triggered the assessment. Use when asked to assess expansion potential, evaluate upsell readiness, score an account for growth, determine whether a customer is ready for a commercial conversation about expansion, or when a CSM detects expansion signals and needs to decide whether and how to pursue them. Also triggers for questions about expansion timing, upsell assessment, growth readiness, when to start an expansion conversation, or evaluating whether a customer is ready to buy more.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

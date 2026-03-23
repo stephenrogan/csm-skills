@@ -3,6 +3,7 @@ name: meeting-agenda-builder
 description: Creates structured meeting agendas with time allocation, talking points, desired outcomes, and participant roles for any CS meeting type. Adapts format by meeting type and audience. Use when asked to build a meeting agenda, structure a customer call, plan a QBR agenda, prepare a kickoff meeting structure, or when a CSM needs to ensure a meeting has a clear purpose and structure before it happens. Also triggers for questions about meeting structure, agenda creation, time allocation for calls, QBR agendas, or how to run an effective customer meeting.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

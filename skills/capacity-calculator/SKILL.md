@@ -3,6 +3,7 @@ name: capacity-calculator
 description: Assesses whether a CSM's book of accounts is manageable given the mix of account tiers, health states, upcoming events, and strategic demands. Produces a capacity assessment with overload indicators, rebalancing suggestions, and evidence for headcount conversations. Use when asked to assess workload, evaluate book capacity, determine if a CSM is overloaded, justify additional headcount, plan account distribution, or when a CSM or manager needs to understand whether the portfolio is sustainable. Also triggers for questions about CSM capacity, workload management, account-to-CSM ratios, book balance, portfolio sizing, or when to hire.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: qbr-content-assembler
 description: Builds structured QBR deck content from manually provided account data including usage metrics, health indicators, support history, value evidence, and customer goals. Produces slide-by-slide content organised by segment template. Use when asked to build a QBR deck, prepare quarterly business review content, assemble QBR slides from data, create a customer review presentation, or when a CSM has data and needs it structured for a QBR. Also triggers for questions about QBR preparation, business review content, customer presentation assembly, or quarterly review slide creation.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

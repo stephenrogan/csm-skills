@@ -3,6 +3,7 @@ name: process-audit-worksheet
 description: Walks through auditing any CS process for agent-readiness by classifying each step as requiring human judgment (HUMAN) or suitable for agent execution (AGENT). Quantifies the production vs. judgment split and identifies the highest-value automation opportunities. Use when asked to audit a process, assess agent-readiness, classify workflow steps, evaluate what can be automated, or when a CS leader wants to understand how much of a process could be handled by agents. Also triggers for questions about process automation assessment, agent-human classification, workflow audit, operational efficiency analysis, or the agent-ready process model.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

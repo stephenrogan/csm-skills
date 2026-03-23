@@ -3,6 +3,7 @@ name: quarterly-planning-builder
 description: Helps a CSM build their quarterly plan with portfolio priorities, measurable targets, focus areas, capacity allocation, and development goals. Produces a structured plan that can be shared with management and reviewed at quarter-end. Use when asked to build a quarterly plan, set Q1-Q4 goals, create a portfolio strategy for the quarter, plan the next 90 days, or when a CSM needs to move from reactive week-to-week management to proactive quarterly strategy. Also triggers for questions about quarterly planning, goal setting for a period, portfolio prioritisation for the quarter, or structuring a 90-day plan.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

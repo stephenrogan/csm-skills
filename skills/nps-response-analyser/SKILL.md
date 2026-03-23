@@ -3,6 +3,7 @@ name: nps-response-analyser
 description: Analyses an NPS score and verbatim response to produce a structured interpretation with recommended follow-up by score band. Goes beyond the number to extract actionable insight from the verbatim and match it to the account context. Use when asked to interpret an NPS response, analyse survey results, determine follow-up for a promoter or detractor, make sense of an NPS verbatim, or when an NPS score arrives and the CSM needs to decide what to do about it. Also triggers for questions about NPS follow-up strategy, survey response interpretation, promoter activation, detractor recovery, or what an NPS score means for a specific account.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

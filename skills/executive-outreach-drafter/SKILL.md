@@ -3,6 +3,7 @@ name: executive-outreach-drafter
 description: Writes the initial outreach email to a senior stakeholder the CSM has not engaged before -- going high for the first time. Calibrates register, framing, and approach to executive communication standards. Use when asked to write an email to a VP, CRO, CFO, or C-suite contact at a customer account, draft an executive outreach, compose a going-high email, engage a new senior stakeholder, or when the CSM needs to establish a relationship at a level above their primary contacts. Also triggers for questions about executive email drafting, going high strategy, senior stakeholder engagement, or first-time executive outreach.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

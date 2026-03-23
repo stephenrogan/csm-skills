@@ -3,6 +3,7 @@ name: contract-review-assistant
 description: Walks through a customer contract to identify key commercial terms, renewal conditions, pricing structure, auto-renewal clauses, termination requirements, and negotiation leverage points. Produces an annotated summary the CSM can use for renewal preparation. Use when asked to review a contract, identify key terms, find renewal clauses, understand pricing structure, prepare for a commercial negotiation, check termination conditions, or when a CSM needs to understand what the contract actually says before a renewal or expansion conversation. Also triggers for questions about contract terms, commercial conditions, pricing clauses, auto-renewal provisions, termination notice periods, or preparing for a contract negotiation.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

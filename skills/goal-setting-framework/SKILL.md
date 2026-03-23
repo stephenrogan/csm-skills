@@ -3,6 +3,7 @@ name: goal-setting-framework
 description: Structures personal and professional development goals for a CSM using a progression from current capabilities to target role or skill level. Produces measurable milestones with a timeline. Use when asked to set goals, build a development plan, define career objectives, structure professional growth targets, or when a CSM wants to be intentional about their development rather than waiting for opportunities to appear. Also triggers for questions about goal setting, professional development planning, career growth structuring, skill development targets, or how to build a development plan that actually gets followed.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: meeting-outcome-logger
 description: Structures what happened in a customer meeting into a CRM-ready activity record with outcome classification, sentiment assessment, next steps, and follow-up triggers. Bridges the gap between "the meeting happened" and "the system knows what happened." Use when asked to log a meeting outcome, create a CRM activity record, document what happened in a call, classify a meeting result, or when any customer interaction needs to be recorded in a structured format for downstream use. Also triggers for questions about meeting documentation, activity logging, CRM record creation, or structured meeting capture.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

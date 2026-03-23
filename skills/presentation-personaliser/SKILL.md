@@ -3,6 +3,7 @@ name: presentation-personaliser
 description: Adapts a generic presentation deck or template to a specific customer account by inserting relevant data, adjusting framing for the audience, and ensuring all references are account-specific. Use when asked to personalise a deck, customise a presentation for a specific customer, adapt a template for a meeting, tailor slides with account data, or when any generic presentation needs to be made specific before a customer interaction. Also triggers for questions about deck customisation, presentation personalisation, template adaptation, or making a generic deck feel account-specific.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

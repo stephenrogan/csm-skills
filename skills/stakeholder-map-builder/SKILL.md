@@ -3,6 +3,7 @@ name: stakeholder-map-builder
 description: Builds a structured map of customer stakeholders with roles, influence levels, engagement status, and relationship strategy per contact. Identifies coverage gaps and single-thread risk. Use when asked to map stakeholders, build an org chart, assess relationship coverage, identify single-thread risk, plan stakeholder engagement, or when a CSM needs to understand who matters at an account and where the relationship gaps are. Also triggers for questions about stakeholder mapping, contact assessment, org chart analysis, relationship coverage, multi-threading assessment, or who to engage at a customer account.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

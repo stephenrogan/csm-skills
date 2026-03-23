@@ -3,6 +3,7 @@ name: success-plan-creator
 description: Builds a mutual success plan with the customer that defines what success looks like, how it will be measured, who is responsible, and what the timeline is. Produces a shared document that both sides reference throughout the engagement. Use when asked to create a success plan, build a customer outcome framework, define success criteria with a customer, structure mutual goals, or when a CSM needs to align with a customer on what they are trying to achieve together. Also triggers for questions about success planning, outcome definition, customer goal alignment, mutual accountability frameworks, or how to ensure both sides know what success looks like.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

@@ -3,6 +3,7 @@ name: action-item-extractor
 description: Extracts commitments, action items, and follow-ups from any unstructured text including call notes, email threads, meeting transcripts, Slack conversations, or internal discussions. Outputs a structured list with owners, deadlines, and priority. Use when asked to pull action items from notes, find commitments in a conversation, extract follow-ups from an email chain, or when a CSM says "what did I commit to in that call?" Also triggers when someone says "what did we agree to," "pull out the next steps," or needs to find buried commitments in a long conversation thread.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

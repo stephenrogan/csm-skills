@@ -3,6 +3,7 @@ name: escalation-decision-framework
 description: Helps a CSM decide whether to escalate an issue, when to escalate, to whom, at what severity, and how to frame it. Distinct from the escalation-brief-writer (which structures the escalation document) -- this skill helps with the judgment call of whether escalation is the right move. Use when asked to decide whether to escalate, determine the right escalation level, assess whether an issue warrants internal attention beyond the CSM, or when a CSM is unsure whether a customer issue is "bad enough" to escalate. Also triggers for questions about escalation judgment, severity assessment, when to involve leadership, whether to escalate or handle it yourself, or how to decide the right escalation level.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---

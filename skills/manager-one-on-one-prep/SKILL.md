@@ -3,6 +3,7 @@ name: manager-one-on-one-prep
 description: Prepares structured updates and discussion points for a CSM's manager 1:1. Organises portfolio status, wins, blockers, asks, and development topics into a format that makes the 1:1 productive rather than a status update. Use when asked to prepare for a 1:1, build an agenda for a manager meeting, structure a weekly update for your manager, prepare discussion points for a check-in, or when a CSM wants their 1:1 to be more than "how are your accounts doing." Also triggers for questions about 1:1 preparation, manager meeting agendas, upward communication, how to structure a manager check-in, or making the most of manager time.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   standalone: true
 ---
