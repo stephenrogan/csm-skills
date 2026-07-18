@@ -2,6 +2,19 @@
 
 # CSM Skills
 
+## Install
+
+**One-line install (GitHub CLI v2.90+):**
+
+    gh skill install stephenrogan/csm-skills <skill-name> --agent claude-code
+
+**Or with npx:**
+
+    npx skills add stephenrogan/csm-skills
+
+**No terminal? No problem:**
+Download any skill folder from `skills/` and upload it to Claude (claude.ai → attach the folder in a conversation, or add it to a Project). Works immediately — no setup.
+
 **58 plug-and-play agent skills for Customer Success Managers. Works from a single conversation. Scales to a production system.**
 
 Each skill works in isolation -- pick the one you need, upload it to any [Agent Skills](https://agentskills.io)-compatible platform (Claude, Codex, or equivalent), and get value immediately. Use them standalone from manual input. Use them repeatedly for persistent account management. Or wire them into your data systems for fully automated operation. The skills are the same at every level -- the input method is what changes.
