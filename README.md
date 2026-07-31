@@ -17,11 +17,11 @@ Download any skill folder from `skills/` and upload it to Claude (claude.ai → 
 
 **58 plug-and-play agent skills for Customer Success Managers. Works from a single conversation. Scales to a production system.**
 
-Each skill works in isolation -- pick the one you need, upload it to any [Agent Skills](https://agentskills.io)-compatible platform (Claude, Codex, or equivalent), and get value immediately. Use them standalone from manual input. Use them repeatedly for persistent account management. Or wire them into your data systems for fully automated operation. The skills are the same at every level -- the input method is what changes.
+Each skill works in isolation. Pick the one you need, upload it to any [Agent Skills](https://agentskills.io)-compatible platform (Claude, Codex, or equivalent), and get value immediately. Use them standalone from manual input. Use them repeatedly for persistent account management. Or wire them into your data systems for fully automated operation. The skills are the same at every level -- the input method is what changes.
 
 ## Why This Exists
 
-Most CSM tooling requires a system implementation before it delivers value. These skills deliver value the moment you use them. They work from what you already know about your accounts, typed into a conversation with an agent. But that is the floor, not the ceiling. The same skill that works from a CSM's typed notes today works from a CRM data feed tomorrow -- without modification.
+Most CSM tooling requires a system implementation before it delivers value. These skills deliver value the moment you use them. They work from what you already know about your accounts, typed into a conversation with an agent. But that is the floor, not the ceiling. The same skill that works from a CSM's typed notes today works from a CRM data feed tomorrow, without modification.
 
 This is the starting point for CSMs who want to work with agents regardless of where they are in their tooling maturity. Use these standalone. Use them as the persistent backbone of how you manage your book. Or use them as the entry point to the [CSM Agent Skills](https://github.com/stephenrogan/augmented-csm) architecture when you are ready for the full system-level approach.
 
@@ -34,7 +34,7 @@ This is the starting point for CSMs who want to work with agents regardless of w
 | [pre-call-prep](skills/pre-call-prep/) | Structures account context into a scannable brief with talking points, questions, and objectives |
 | [meeting-agenda-builder](skills/meeting-agenda-builder/) | Creates structured agendas with time allocation and desired outcomes for any meeting type |
 | [qbr-content-assembler](skills/qbr-content-assembler/) | Builds data-populated QBR deck content organised by segment template |
-| [executive-briefing-writer](skills/executive-briefing-writer/) | Condenses account context into executive summaries -- from 30-second verbals to one-page briefs |
+| [executive-briefing-writer](skills/executive-briefing-writer/) | Condenses account context into executive summaries, from 30-second verbals to one-page briefs |
 | [stakeholder-research-prep](skills/stakeholder-research-prep/) | Prepares background research and engagement approach for a first meeting with a new contact |
 | [presentation-personaliser](skills/presentation-personaliser/) | Adapts generic decks to account-specific presentations with data, framing, and narrative |
 
@@ -46,7 +46,7 @@ This is the starting point for CSMs who want to work with agents regardless of w
 | [action-item-extractor](skills/action-item-extractor/) | Pulls explicit and implicit commitments from any unstructured text |
 | [follow-up-email-writer](skills/follow-up-email-writer/) | Generates post-meeting recap emails with decisions, actions, and next touchpoint |
 | [meeting-outcome-logger](skills/meeting-outcome-logger/) | Structures meetings into CRM-ready records with outcome classification and sentiment capture |
-| [internal-debrief-writer](skills/internal-debrief-writer/) | Generates internal-only post-meeting analysis -- political reads, competitive signals, honest assessments |
+| [internal-debrief-writer](skills/internal-debrief-writer/) | Generates internal-only post-meeting analysis. Political reads, competitive signals, honest assessments |
 
 ### Written Communication
 
@@ -55,9 +55,9 @@ This is the starting point for CSMs who want to work with agents regardless of w
 | [check-in-email-drafter](skills/check-in-email-drafter/) | Writes personalised check-in emails with specific observations, not "just checking in" |
 | [difficult-conversation-drafter](skills/difficult-conversation-drafter/) | Prepares talking points for delivering bad news, addressing concerns, or having honest conversations |
 | [escalation-brief-writer](skills/escalation-brief-writer/) | Structures escalation documents with timeline, impact, resolution attempts, and specific asks |
-| [renewal-conversation-opener](skills/renewal-conversation-opener/) | Frames the renewal conversation opening -- value-led, partnership, or problem-solving approach |
+| [renewal-conversation-opener](skills/renewal-conversation-opener/) | Frames the renewal conversation opening, value-led, partnership, or problem-solving approach |
 | [re-engagement-email-writer](skills/re-engagement-email-writer/) | Writes outreach to customers who have gone dark with pattern-matched approaches |
-| [executive-outreach-drafter](skills/executive-outreach-drafter/) | Writes the first email to a senior stakeholder -- calibrated to executive communication standards |
+| [executive-outreach-drafter](skills/executive-outreach-drafter/) | Writes the first email to a senior stakeholder, calibrated to executive communication standards |
 | [customer-apology-crafter](skills/customer-apology-crafter/) | Writes genuine, non-corporate apologies after service failures with accountability and resolution |
 | [handoff-intro-email](skills/handoff-intro-email/) | Writes the CSM transition introduction email with reassurance, credibility, and next steps |
 | [internal-status-update-writer](skills/internal-status-update-writer/) | Compiles portfolio status into formatted updates for managers, leadership, or cross-functional teams |
@@ -100,11 +100,11 @@ This is the starting point for CSMs who want to work with agents regardless of w
 |-------|-------------|
 | [objection-handler](skills/objection-handler/) | Response frameworks for pricing, feature, competitor, and usage objections |
 | [value-narrative-builder](skills/value-narrative-builder/) | Constructs value stories connecting usage to business outcomes for any audience level |
-| [process-audit-worksheet](skills/process-audit-worksheet/) | Audits any CS process for agent-readiness -- classifies every step as AGENT or HUMAN |
-| [pricing-conversation-framework](skills/pricing-conversation-framework/) | Structures pricing discussions -- renewals, increases, discounts, and competitive pressure |
+| [process-audit-worksheet](skills/process-audit-worksheet/) | Audits any CS process for agent-readiness, classifies every step as human or automated |
+| [pricing-conversation-framework](skills/pricing-conversation-framework/) | Structures pricing discussions, renewals, increases, discounts, and competitive pressure |
 | [business-review-framework](skills/business-review-framework/) | Lighter alternative to a full QBR for mid-market and SMB -- 20-minute structured review |
 | [escalation-decision-framework](skills/escalation-decision-framework/) | Decision framework for whether to escalate, to whom, and at what severity |
-| [change-management-advisor](skills/change-management-advisor/) | Framework for helping customers drive internal adoption -- blockers, stakeholders, phased rollout |
+| [change-management-advisor](skills/change-management-advisor/) | Framework for helping customers drive internal adoption, blockers, stakeholders, phased rollout |
 | [multi-threading-playbook](skills/multi-threading-playbook/) | Structured approach to expanding relationships beyond a single contact |
 | [executive-engagement-playbook](skills/executive-engagement-playbook/) | Framework for when and how to involve executives in the account relationship |
 | [peer-coaching-guide](skills/peer-coaching-guide/) | Structures productive coaching conversations between CSMs |
@@ -116,7 +116,7 @@ This is the starting point for CSMs who want to work with agents regardless of w
 |-------|-------------|
 | [cs-investment-case-builder](skills/cs-investment-case-builder/) | Builds CFO-ready business cases for CS headcount, tooling, or programme investment |
 | [interview-prep-cs](skills/interview-prep-cs/) | Structures CS interview preparation by level with question patterns and story bank |
-| [cs-metrics-explainer](skills/cs-metrics-explainer/) | Comprehensive metric breakdowns -- definition, calculation, benchmarks, and how to present |
+| [cs-metrics-explainer](skills/cs-metrics-explainer/) | Comprehensive metric breakdowns, definition, calculation, benchmarks, and how to present |
 | [manager-one-on-one-prep](skills/manager-one-on-one-prep/) | Structures manager 1:1s into working sessions with asks, wins, blockers, and development |
 | [career-dev-planner](skills/career-dev-planner/) | Maps career progression with gap analysis, skill matrix, and development milestones |
 
@@ -126,7 +126,7 @@ This is the starting point for CSMs who want to work with agents regardless of w
 1. Download the skill folder (or the zip of all skills)
 2. Go to Settings > Features > Skills
 3. Upload the skill folder as a zip
-4. Start a conversation -- the skill activates when your prompt matches its description
+4. Start a conversation. The skill activates when your prompt matches its description
 
 ### On Claude Code
 1. Place the skill folder in your `.claude/skills/` directory
@@ -173,7 +173,7 @@ You wire the skill into your data sources. CRM APIs, product analytics, calendar
 
 The skill now pulls data automatically. The manual-health-assessment becomes the automated bi-health-score from the [system architecture](https://github.com/stephenrogan/augmented-csm). The pre-call-prep becomes the bi-account-brief that triggers before every scheduled meeting. The process-audit-worksheet becomes the foundation for your agent-augmented operating model.
 
-**The skill logic does not change.** The assessment framework, the scoring model, the output structure -- all identical. The only difference is that a machine provides the input instead of a human. The upgrade path is: swap the input method, keep everything else.
+**The skill logic does not change.** The assessment framework, the scoring model, the output structure. All identical. The only difference is that a machine provides the input instead of a human. The upgrade path is: swap the input method, keep everything else.
 
 ### The Point
 
@@ -193,7 +193,7 @@ These skills are not "lightweight tools for people who cannot afford real system
 
 ## Relationship to CSM Agent Skills
 
-This repo contains **standalone tools** -- individual skills that work independently at any maturity level.
+This repo contains **standalone tools**. Individual skills that work independently at any maturity level.
 
 The [Augmented CSM](https://github.com/stephenrogan/augmented-csm) repo contains **a system architecture** -- 38 interdependent skills that form a complete agent-augmented CS operating model.
 
@@ -206,7 +206,7 @@ They are not competing approaches. They are stages of the same journey:
 
 ## Feedback
 
-If you use these skills and have feedback -- what worked, what did not, what is missing -- we would like to hear it. Open a discussion in this repo.
+If you use these skills and have feedback, what worked, what did not, what is missing, we would like to hear it. Open a discussion in this repo.
 
 ## Licence
 
