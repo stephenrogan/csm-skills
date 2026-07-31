@@ -17,7 +17,7 @@ Download any skill folder from `skills/` and upload it to Claude (claude.ai → 
 
 **58 plug-and-play agent skills for Customer Success Managers. Works from a single conversation. Scales to a production system.**
 
-Each skill works in isolation. Pick the one you need, upload it to any [Agent Skills](https://agentskills.io)-compatible platform (Claude, Codex, or equivalent), and get value immediately. Use them standalone from manual input. Use them repeatedly for persistent account management. Or wire them into your data systems for fully automated operation. The skills are the same at every level -- the input method is what changes.
+Each skill works in isolation. Pick the one you need, upload it to any [Agent Skills](https://agentskills.io)-compatible platform (Claude, Codex, or equivalent), and get value immediately. Use them standalone from manual input. Use them repeatedly for persistent account management. Or wire them into your data systems for fully automated operation. The skills are the same at every level. The input method is what changes.
 
 ## Why This Exists
 
@@ -102,7 +102,7 @@ This is the starting point for CSMs who want to work with agents regardless of w
 | [value-narrative-builder](skills/value-narrative-builder/) | Constructs value stories connecting usage to business outcomes for any audience level |
 | [process-audit-worksheet](skills/process-audit-worksheet/) | Audits any CS process for agent-readiness, classifies every step as human or automated |
 | [pricing-conversation-framework](skills/pricing-conversation-framework/) | Structures pricing discussions, renewals, increases, discounts, and competitive pressure |
-| [business-review-framework](skills/business-review-framework/) | Lighter alternative to a full QBR for mid-market and SMB -- 20-minute structured review |
+| [business-review-framework](skills/business-review-framework/) | Lighter alternative to a full QBR for mid-market and SMB, 20-minute structured review |
 | [escalation-decision-framework](skills/escalation-decision-framework/) | Decision framework for whether to escalate, to whom, and at what severity |
 | [change-management-advisor](skills/change-management-advisor/) | Framework for helping customers drive internal adoption, blockers, stakeholders, phased rollout |
 | [multi-threading-playbook](skills/multi-threading-playbook/) | Structured approach to expanding relationships beyond a single contact |
@@ -147,7 +147,7 @@ Each skill operates at whatever level of maturity your environment supports. The
 
 You type what you know. The skill structures it.
 
-A CSM opens a conversation, provides account context from memory or a quick CRM glance, and gets a structured output -- a health assessment, a pre-call brief, a save play, a prioritised book. No integrations, no pipelines, no setup. Value in 5 minutes.
+A CSM opens a conversation, provides account context from memory or a quick CRM glance, and gets a structured output, a health assessment, a pre-call brief, a save play, a prioritised book. No integrations, no pipelines, no setup. Value in 5 minutes.
 
 **This is the floor.** Every skill in this repo works at this level with nothing but a keyboard.
 
@@ -155,7 +155,7 @@ A CSM opens a conversation, provides account context from memory or a quick CRM 
 
 You use the same skill repeatedly for the same accounts. Context accumulates.
 
-"Here is the updated health assessment for Acme -- last time we scored them 68, engagement was declining. Here is what changed since then." The CSM brings the continuity. The skill provides the structure. Over time, the skill becomes the operating rhythm for how you manage your accounts -- a consistent framework applied to every interaction, every assessment, every plan.
+"Here is the updated health assessment for Acme, last time we scored them 68, engagement was declining. Here is what changed since then." The CSM brings the continuity. The skill provides the structure. Over time, the skill becomes the operating rhythm for how you manage your accounts, a consistent framework applied to every interaction, every assessment, every plan.
 
 **No modification needed.** The skills work for persistent use as-is. The CSM is the memory layer.
 
@@ -187,7 +187,7 @@ These skills are not "lightweight tools for people who cannot afford real system
 
 **Immediate value.** Every skill delivers a useful output in a single session. No setup, no configuration, no multi-step onboarding before you see results.
 
-**Structured thinking, not just structured output.** The skills do not just format your input prettily. They impose assessment frameworks, scoring models, and decision logic that improve the quality of the CSM's thinking -- whether the input comes from memory or from a data warehouse.
+**Structured thinking, not just structured output.** The skills do not just format your input prettily. They impose assessment frameworks, scoring models, and decision logic that improve the quality of the CSM's thinking, whether the input comes from memory or from a data warehouse.
 
 **Opinionated.** These skills take positions on what good CS looks like. They encode senior operator judgment into reusable frameworks. If you disagree with a position, fork the skill and adapt it.
 
@@ -195,7 +195,7 @@ These skills are not "lightweight tools for people who cannot afford real system
 
 This repo contains **standalone tools**. Individual skills that work independently at any maturity level.
 
-The [Augmented CSM](https://github.com/stephenrogan/augmented-csm) repo contains **a system architecture** -- 38 interdependent skills that form a complete agent-augmented CS operating model.
+The [Augmented CSM](https://github.com/stephenrogan/augmented-csm) repo contains **a system architecture**, 38 interdependent skills that form a complete agent-augmented CS operating model.
 
 They are not competing approaches. They are stages of the same journey:
 
