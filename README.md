@@ -208,6 +208,8 @@ They are not competing approaches. They are stages of the same journey:
 
 If you use these skills and have feedback, what worked, what did not, what is missing, we would like to hear it. Open a discussion in this repo.
 
+More from the author at [www.stephenrogan.com](https://www.stephenrogan.com).
+
 ## Licence
 
 [MIT](LICENSE)
