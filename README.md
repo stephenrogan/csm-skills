@@ -13,7 +13,7 @@
     npx skills add stephenrogan/csm-skills
 
 **No terminal? No problem:**
-Download any skill folder from `skills/` and upload it to Claude (claude.ai → attach the folder in a conversation, or add it to a Project). Works immediately — no setup.
+Download any skill folder from `skills/` and upload it to Claude (claude.ai → attach the folder in a conversation, or add it to a Project). Works immediately, no setup.
 
 **58 plug-and-play agent skills for Customer Success Managers. Works from a single conversation. Scales to a production system.**
 
